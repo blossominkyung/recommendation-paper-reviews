@@ -1,7 +1,7 @@
 # Recommendation System
 
 <p align="center">
-    <img src="./img/rec-figure.png" width="300" height="230">
+    <img src="./rec-figure.png" width="300" height="230">
 </p>
 
 Recommendation System has a goal to review representative papers from basic to current research trends.
