@@ -10,7 +10,7 @@ Recommendation System has a goal to review representative papers from basic to c
 * Review RecSys papers at least once a week
 * Study core concpet and upload it on [my blog](https://blossominkyung.com/).
 * Upload a review link on here.
-* To implement some papers following the flow from basic to trends.
+* To implement some papers following the flow from basic to trends on [Tutorial reposit](https://github.com/blossominkyung/awesome-recsys-tutorial).
 
 > Whole review is by Korea.
 
