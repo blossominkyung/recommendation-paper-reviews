@@ -50,3 +50,11 @@ Recommendation System has a goal to review representative papers from basic to c
 **Publish** [IJCAI'17](https://arxiv.org/pdf/1703.04247.pdf)
 
 **Review** [DeepFM for CTR Prediction](https://blossominkyung.com/1e717a30-653a-4c0a-bb89-8800e9183798)
+
+### Recommending What Video to Watch Next: A Multitask Ranking System
+**Author** Zhe Zhao et al 
+
+**Publish** [RecSys'19](https://daiwk.github.io/assets/youtube-multitask.pdf?fbclid=IwAR3z4b9YlBP_99_AshH8alFT6YerXKcAdgKv5d438YnWQefk7yXwNpRrmJY)
+
+**Revies** [What Video to Watch Next?](https://blossominkyung.com/b621c61f-7def-472e-abed-452b51cb35d7)
+
