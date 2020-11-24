@@ -22,7 +22,7 @@ Recommendation System has a goal to review representative papers from basic to c
 **Publish** [RecSys'10](https://www.inf.unibz.it/~ricci/ISR/papers/p293-davidson.pdf?fbclid=IwAR02saeLLv279WAJy5y5Y1SNLNv91t56vXKWzVpToXZqbQsN-_200f7Zd2g)
 
 **Review** [The YouTube Video RecSys](https://blossominkyung.com/250186a5-9a8d-4b05-bf6c-bb59ef7d334d)
----
+
 ### Deep Neural Networks for YouTube Recommendations
 **Author** Paul Covington et al
 
@@ -31,7 +31,7 @@ Recommendation System has a goal to review representative papers from basic to c
 **Review** [DNN for YouTube](https://blossominkyung.com/4834a9c0-091d-423a-995e-2f8dfc1dc702)
 
 ### Matrix Factorization Techniques for Recommender Systems
----
+
 **Author** Yehuda Koren et al
 
 **Publish** [Computer Society'09](https://datajobs.com/data-science-repo/Recommender-Systems-%5BNetflix%5D.pdf)
@@ -39,7 +39,7 @@ Recommendation System has a goal to review representative papers from basic to c
 **Review** [Matrix Factorization: Netflix](https://blossominkyung.com/47ebfb7d-efce-47ec-97b4-1540c13b26b3)
 
 ### Wide & Deep Learning for Recommender Systems
----
+
 **Author** Google Inc.
 
 **Publish** [DLRS'16](https://arxiv.org/pdf/1606.07792.pdf)
