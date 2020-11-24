@@ -30,6 +30,8 @@ Recommendation System has a goal to review representative papers from basic to c
 
 **Review** [DNN for YouTube](https://blossominkyung.com/4834a9c0-091d-423a-995e-2f8dfc1dc702)
 
+---
+
 ### Matrix Factorization Techniques for Recommender Systems
 
 **Author** Yehuda Koren et al
