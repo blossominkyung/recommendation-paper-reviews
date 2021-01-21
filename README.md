@@ -72,4 +72,14 @@ Recommendation System has a goal to review representative papers from basic to c
 
 ---
 
+### Netflix How Do You Know Me? 1- Page Generation
+**Review** [page generation](https://blossominkyung.com/20e6de2b-42f0-4dc8-8a88-c81c982d3a0e)
+
+---
+### Neural Graph Collaborative Filtering
+**Author** Xiang Wang, Xiangnan He et al
+
+**Publish** [SIGIR'19](https://arxiv.org/abs/1905.08108)
+
+**Review** [CF-NCF-NGCF](https://drive.google.com/file/d/1p5Se3KYacPth4f7O85wfpOtxi6Kbqm7l/view)
 
