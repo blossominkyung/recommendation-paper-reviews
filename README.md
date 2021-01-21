@@ -12,7 +12,7 @@ Recommendation System has a goal to review representative papers from basic to c
 * Upload a review link on here.
 * To implement some papers following the flow from basic to trends on [Tutorial reposit](https://github.com/blossominkyung/awesome-recsys-tutorial).
 
-> Whole review is by Korean.
+> All reviews are in Korean.
 
 ## Review lists
 
